@@ -1,10 +1,10 @@
-<h1 align='center'>  Data Glow Up </h1>
+<h1 >  Data Glow Up </h1>
 
 <blockquote>
-    <p align='center'> 
+    <p > 
         <b> Desafio 33:</b>  Dados Sobre a terrivel guerra que esta acontecendo entre UK e RU. 
     </p>
-    <p align='center'>
+    <p >
         <b>Dados:</b> <a href='https://docs.google.com/spreadsheets/d/17YhLXD459Q8_8ez0aAl9EP4EbwgYndTDeMgJzvp5G_w/edit#gid=2011395717'> Ukraine-Russia War Graphics </a> 
         <br>
         <b>Abas usadas: </b> Who Imports Russian Oil, Biggest Oil Producers, % Dependency on Russian Oil, Who Supports Russia?, 
@@ -12,10 +12,27 @@
 </blockquote>
 <hr>
 
-<h2> Contexto </h2>
-<p> Empresa de Petróleo da Arabia Saudita visualiza na guerra uma oportunidade de expansão de mercado e receita.
+<h2> Ambientação </h2>
+<p> A empresa de petróleo <b> PetroSA</b> da Arábia Saudita enfrenta o desafio de expandir seu mercado, buscando novas oportunidades de crescimento, diversificação e adaptação aos desafios emergentes. Reconhecendo a oportunidade de explorar novos mercados em outros países, a empresa está empenhada em identificar regiões com demanda crescente por energia e avaliar as condições políticas, econômicas e regulatórias para estabelecer operações bem-sucedidas. Ao buscar ativamente oportunidades em novos países, a empresa visa diversificar sua base de clientes e garantir seu crescimento sustentável no cenário global do setor petrolífero. </p> 
 
-OPEC
+<p> <b> Você como analista de dados desta empresa deve criar análises para entender quais as oportunidades e o potencial de ganho com essa expansão </b>  </p>
+<hr>
+
+<h2> Oportunidade </h2>
+
+<p> Um dos maiores exportadores de Petróleo do mundo é a Rússia. Atualmente a Rússia está em conflitos com a Ucránia e esses conflitos estão polarizando as opiniões relacionados ao país. 
+Portanto, muitos países estão escolhendo um lado para apoiar.</p>
+<p>
+Vamos visualizar a distribuição de como os países se sentem em relação a rússia:
+</p>
+<img src='C:\Users\zThan\OneDrive\Documentos\data glow up\relacao_russia.png'> 
+
+
+
+
+
+
+
 
 Arabia Saúdita é um pais neutro.
 
