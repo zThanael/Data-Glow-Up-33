@@ -12,15 +12,25 @@
 </blockquote>
 <hr>
 
-<h2> Ambientação </h2>
-<p> A empresa de petróleo <b> PetroSA</b> da Arábia Saudita enfrenta o desafio de expandir seu mercado, buscando novas oportunidades de crescimento, diversificação e adaptação aos desafios emergentes. Reconhecendo a oportunidade de explorar novos mercados em outros países, a empresa está empenhada em identificar regiões com demanda crescente por energia e avaliar as condições políticas, econômicas e regulatórias para estabelecer operações bem-sucedidas. Ao buscar ativamente oportunidades em novos países, a empresa visa diversificar sua base de clientes e garantir seu crescimento sustentável no cenário global do setor petrolífero. </p> 
+<h2> Sumário </h2>
+<ol>
+    <li> <a href='#ambientacao'> Ambienteção </a> </li>
+    <li> <a href='#oportunidade'> Oportunidade </a> </li>
+    <li> <a href='#tamanho'> Qual o tamanho dessa oportunidade ? </a> </li>
+    <li> <a href='#resultado'> Resultado </a> </li>
+</ol>
 
-<p> <b> Você como analista de dados desta empresa deve criar análises para entender quais as oportunidades e o potencial de ganho com essa expansão </b>  </p>
-<hr>
+<br><hr> 
 
-<h2> Oportunidade </h2>
+<h2 id='ambientacao'> Ambientação </h2>
+<p> A empresa de petróleo <b> PetroSA</b> da Arábia Saudita enfrenta o desafio de expandir seu mercado, buscando novas oportunidades de crescimento, diversificação e adaptação aos desafios emergentes. Reconhecendo a oportunidade de explorar novos mercados em outros países, a empresa está empenhada em identificar regiões com demanda crescente por energia e avaliar as condições políticas, econômicas e regulatórias para estabelecer operações bem-sucedidas. </p> 
 
-<p> Um dos maiores exportadores de Petróleo do mundo é a Rússia e atualmente a Rússia está em conflitos com a Ucránia e esses conflitos estão polarizando as opiniões relacionados ao país. 
+<p> <b> Você como analista de dados desta empresa deve criar análises para entender quais as oportunidades e o potencial de ganho com essa expansão </b> </p>
+<br><hr>
+
+<h2 id='oportunidade'> Oportunidade </h2>
+
+<p> Um dos maiores exportadores de Petróleo do mundo é a Rússia que atualmente está em conflitos com a Ucránia e esses conflitos estão polarizando as opiniões relacionados ao país. 
 Portanto, muitos países estão escolhendo um lado para apoiar.</p>
 <p>
 Vamos visualizar a distribuição de como os países se sentem em relação a rússia:
@@ -30,16 +40,22 @@ Vamos visualizar a distribuição de como os países se sentem em relação a r�
 
 <b>OBS: </b> <i> Lembrando que a Arabia Saúdita é um País Neutro em relação a Guerra que está acontecendo </i> 
 
-<hr>
+<br><hr>
 
-<h2> Identificação de Potenciais Clientes </h2>
+<h2 id='tamanho'> Qual o tamanho dessa oportunidade ? </h2>
 
-<p> Nosso objetivo é identificar quais <b> países importam petróleo da Rússia e estão descontentes com a Rússia </b> referente a Guerra. </p>
+<p> Sabendo que existem muitos países insatisfeitos com a rússia, precisamos entender qual o potencial de mercado que existe relacionado aos <b> países importam petróleo da Rússia e estão descontentes com a Rússia </b> referente a Guerra. </p>
+
+<p> Vamos visualizar os países que importam Petróleo da Rússia e estão descontentes com a situação </p>
+
+<img src='potenciais_clientes.png'> 
+<p> <b>OBS: </b> <i> Share % é o percentual do Petróleo Russo. (100% é todo o petróleo que a Russia exporta)  </i>  </p>
+
+<p> A partir dessa listagem conseguimos verificar que existem muitos países que importam petróleo da Rússia e que estão insatisfeitos, ou seja, <b> esses países são potenciais clientes para expandir a operação da PetroSA para outros países. </b> </p>
 
 
+<br><hr>
 
+<h2 id='resultado'> Resultados </h2>
 
-
-   
-- <b> Expansão de receita: </b> Possibilidade de expansão de receita baseada na dependencia de Petróleo Russo. 
-Exemplo: 56% do Petróleo usado na Turkya vem da Russia... E eles não estão feliz com a Russia, portanto é um cliente em potencial, podendo haver uma expansão de até $3.51B (Valor que a Turkya paga para a Russia sobre o Petróleo mesmo não estando feliz com a situação.)
+<p> 
