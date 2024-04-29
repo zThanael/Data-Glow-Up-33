@@ -18,6 +18,7 @@
     <li> <a href='#oportunidade'> Oportunidade </a> </li>
     <li> <a href='#tamanho'> Qual o tamanho dessa oportunidade ? </a> </li>
     <li> <a href='#resultado'> Resultado </a> </li>
+    <li> <a href='#conclusao'> Conclusão </a> </li>
 </ol>
 
 <br><hr> 
@@ -58,4 +59,35 @@ Vamos visualizar a distribuição de como os países se sentem em relação a r�
 
 <h2 id='resultado'> Resultados </h2>
 
+<p> Ao análisar os dados anteriores podemos extrair insights como </p>
+<ul>
+    <li>
+    <b> Clientes Insátisfeitos:  </b> 
+    Como visualizado existem muitos países insatisfeitos com a Rússia mas continuam importando petróleo, gerando assim uma abertura para a PetroSA entrar nesse mercado.
+    </li>
+<br>
+    <li>
+    <b> Potencial do mercado:  </b> 
+    Existe um mercado de até <b>$ 65.3 B </b> referente aos países que importam petróleo da Rússia mesmo estando descontentes com o país. </p>
+    </li>
+<br>
+    <li> <b>  Localização: </b> A grande parte desse mercado está concentrado na <b> Europa. </b>   </li>
+</ul>
+
+<br>
+<hr>
+
+<h2 id='conclusao'> Conclusão </h2>
+
 <p> 
+    Entendendo o objetivo da PetroSA de expandir sua área de atuação para novos países ao analisarmos a situação atual referente a guerra entre a Rússia e a Ucrânia é possivel visualizar os impactos desta guerra em diversas áreas como no ramo petrólifico. 
+</p>
+<p> 
+    Ao analisar os dados referentes a guerra e seus impactos torna-se vísivel uma oportunidade para a PetroSA expandir seu mercado iniciando as operações na Europa. Essa oportunidade é justificada através da quantidade de países insatisféitos com a Rússia mas que continuam importando petróleo com a Rússia. 
+</p>
+<p> 
+    Portanto, esses países tornam-se potenciais clientes para serem abordados, pois existe uma chance muito grande substituirem o fornecedor de petróleo, paises como a Alemanha e Países Baixos (Germany and netherlands) onde cada um importa mais de 10 B em petróleo russo.
+</p>
+<p> 
+    Essa é uma ótima oportunidade para a PetroSA expandir suas operações visando esses potenciais clientes, o potencial deste mercado consiste em $ 65.3 B, sendo este o valor total importando em petróleo russo por países que não apoiam a Rússia. Recomendo fortemente que sejam criada ações para expandirmos as operações e com isso obter uma fátia desse mercado gigantesco.
+</p>
