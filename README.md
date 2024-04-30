@@ -7,7 +7,7 @@
     <p >
         <b>Dados:</b> <a href='https://docs.google.com/spreadsheets/d/17YhLXD459Q8_8ez0aAl9EP4EbwgYndTDeMgJzvp5G_w/edit#gid=2011395717'> Ukraine-Russia War Graphics </a> 
         <br>
-        <b>Abas usadas: </b> Who Imports Russian Oil, Biggest Oil Producers, % Dependency on Russian Oil, Who Supports Russia?, 
+        <b>Abas usadas: </b> Who Imports Russian Oil, Biggest Oil Producers, % Dependency on Russian Oil, Who Supports Russia?
     </p>
 </blockquote>
 <hr>
@@ -37,7 +37,7 @@ Portanto, muitos países estão escolhendo um lado para apoiar.</p>
 Vamos visualizar a distribuição de como os países se sentem em relação a rússia:
 </p>
 <img src='relacao_russia.png'> 
-<p> Sabendo que a a Rússia é uma das maiores exportadores de petróleo e que <b> 65% dos países não estão contentes com a Rússia (UNHAPPY e CONDEMNS RUSSIA) </b> significa que existe uma oportunidade para expandirmos a operação da <b> PetroSA </b> para fornecermos petróleo para países que estão insatisfeitos com a Rússia mas mesmo assim continuam importando o petróleo dela.  </p>
+<p> Sabendo que a a Rússia é um dos maiores exportadores de petróleo e que <b> 65% dos países não estão contentes com a Rússia (UNHAPPY e CONDEMNS RUSSIA) </b> significa que existe uma oportunidade para expandirmos a operação da <b> PetroSA </b> para fornecermos petróleo para países que estão insatisfeitos com a Rússia mas mesmo assim continuam importando o petróleo dela.  </p>
 
 <b>OBS: </b> <i> Lembrando que a Arabia Saúdita é um País Neutro em relação a Guerra que está acontecendo </i> 
 
@@ -86,7 +86,7 @@ Vamos visualizar a distribuição de como os países se sentem em relação a r�
     Ao analisar os dados referentes a guerra e seus impactos torna-se vísivel uma oportunidade para a PetroSA expandir seu mercado iniciando as operações na Europa. Essa oportunidade é justificada através da quantidade de países insatisféitos com a Rússia mas que continuam importando petróleo com a Rússia. 
 </p>
 <p> 
-    Portanto, esses países tornam-se potenciais clientes para serem abordados, pois existe uma chance muito grande substituirem o fornecedor de petróleo, paises como a Alemanha e Países Baixos (Germany and netherlands) onde cada um importa mais de 10 B em petróleo russo.
+    Portanto, esses países tornam-se potenciais clientes para serem abordados, pois existe uma chance muito grande substituirem o fornecedor de petróleo, paises como a Alemanha e Países Baixos (Germany and netherlands) onde cada um importa mais de $ 10 B em petróleo russo.
 </p>
 <p> 
     Essa é uma ótima oportunidade para a PetroSA expandir suas operações visando esses potenciais clientes, o potencial deste mercado consiste em $ 65.3 B, sendo este o valor total importando em petróleo russo por países que não apoiam a Rússia. Recomendo fortemente que sejam criada ações para expandirmos as operações e com isso obter uma fátia desse mercado gigantesco.
